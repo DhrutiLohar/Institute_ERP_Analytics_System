@@ -71,11 +71,7 @@ Institute-ERP-Analytics/
 ├── powerbi/
 │   └── Institute_ERP.pbix
 │
-├── reports/
-│
 ├── dashboard_screenshots/
-│
-├── requirements.txt
 │
 ├── README.md
 │
